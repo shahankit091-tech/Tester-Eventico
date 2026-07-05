@@ -1,0 +1,1 @@
+console.log("TestCase2 by Tester2");
